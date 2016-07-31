@@ -1,0 +1,6 @@
+framework module Pods_animationViaStoryboard {
+  umbrella header "Pods-animationViaStoryboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
